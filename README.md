@@ -5,5 +5,5 @@ This is done in VScode using ipynb (Jupyter Notebook with python anaconda kernal
 
 This should contain: 
 a working converter of Phasor to complex and complex to Phasor. 
-Calculator that considers both phasor and complex inputs and is able to perform basics operations (add, sub, mul, div) on those values and return the value in phasor or complex depending on the inputs. 
+Calculator that considers both phasor and complex inputs and is able to perform basics operations (add, sub, mul, div) on those values and return the value in complex form. 
 
